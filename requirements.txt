@@ -1,0 +1,6 @@
+# macOS menu bar app (rumps-based)
+rumps==0.4.0
+
+# Cross-platform system tray app (macOS / Linux / Windows)
+pystray>=0.19
+Pillow>=10.0
